@@ -56,7 +56,7 @@ Churn (Yes/No) represents whether a customer **left the company**. Predicting ch
 
 ---
 
-## ⚙️ Setup & Installation
+## ⚙️ Setup
 Clone the repository:
 ```bash
 git clone https://github.com/your-username/telco-churn-prediction.git
